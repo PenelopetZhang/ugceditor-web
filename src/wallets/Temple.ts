@@ -10,7 +10,6 @@ import { TezosToolkit } from '@taquito/taquito';
 import { bytes2Char } from '@taquito/utils';
 import { TempleWallet } from '@temple-wallet/dapp';
 import { message } from 'antd';
-import * as _ from 'lodash';
 
 const TESTNET_RPC_URL = 'https://jakartanet.ecadinfra.com';
 
